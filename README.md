@@ -16,3 +16,6 @@ Notable points include:
 - example cross-reference footnotes (makes later adjustments easier) 
 - document is named with simple versioning (title__versionNumber__authorInitials)
 - cross referenced footnotes (infra and supra) in below-the-line text 
+
+
+![preview](preview.png?raw=true "Title")
