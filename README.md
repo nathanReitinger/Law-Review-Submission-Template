@@ -5,7 +5,7 @@ This repository hosts a template for law review submissions (i.e., submitting an
 
 Notable points include: 
 
-
+- naming convention: Part → Section → Subsection → Subsubsection
 - single spaced lines
 - 0 inch left and right indentation (found in paragraph settings in Microsoft Word)
 - justify text 
